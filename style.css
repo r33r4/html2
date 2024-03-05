@@ -26,11 +26,11 @@ header {
       border:2px solid black;
     }
     article img{
-      height: 100px;
+      height: 200px;
       width: 225px;
     }
     article button{
-      width: 100px;
+      width: 225px;
     }
 hatch{
    width: 200px;
