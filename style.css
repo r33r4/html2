@@ -17,7 +17,13 @@ header {
    font-size: calc(1rem + 2vw);
    margin-bottom: 10px;
    height: 200px;
-   background-image: url('https://cdn.discordapp.com/attachments/428939541068644352/1209492849134145546/image.png?ex=65e71efe&is=65d4a9fe&hm=961846ad76d5efe11bb37af6a29b7cc7166c5e2dc1e0ed4aa01e0f603bc9293e&alt');
+   background-image: url('img/backgrund\ chess.jpg');
+    }
+
+    label {
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      color: firebrick;
+      font-size: calc(0.25rem + 0.25vw);
     }
  
     article {
