@@ -54,6 +54,7 @@ main {
     display: grid;
     grid-template-columns: 2fr 2fr 2fr ;
  border: 2px solid black;
+ background-image: url('img/jjjs.jpg');
 }
 label{
       font-size: calc(0.5rem + 1vw);
